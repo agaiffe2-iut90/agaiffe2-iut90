@@ -1,7 +1,6 @@
 - 👋 Hi, I’m anna
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me : on instagram
 
 <!---
