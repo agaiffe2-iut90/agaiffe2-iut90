@@ -1,7 +1,7 @@
 - 👋 Hi, I’m anna
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code
-- 📫 How to reach me : on instagram
+- 📫 How to reach me : on LinkedIn
 
 <!---
 agaiffe2-iut90/agaiffe2-iut90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
