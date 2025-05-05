@@ -1,11 +1,13 @@
 # 👋 Hi, I’m Anna
 
-- 🎓 I'm a second-year Computer Science student at Université de Franche-Comté
+- 🎓 I'm a second-year Computer Science student at Université de Franche-Comté (BIT Informatique)
 - 🌱 I’m currently learning to code
 - 📫 You can reach me :
-- at my email : anna.gaiffe@edu.univ-fcomte.fr
--  on LinkedIn : <a href="https://www.linkedin.com/in/anna-gaiffe">
 
+## 📫 You can reach me
+
+- ✉️ Email: [anna.gaiffe@edu.univ-fcomte.fr](mailto:anna.gaiffe@edu.univ-fcomte.fr)  
+- 💼 LinkedIn: [linkedin.com/in/anna-gaiffe](https://www.linkedin.com/in/anna-gaiffe)
 <!---
 agaiffe2-iut90/agaiffe2-iut90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
