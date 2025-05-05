@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Anna
 
-- 🎓 I'm a second-year Computer Science student at Université de Franche-Comté (BIT Informatique)
+- 🎓 I'm a second-year Computer Science student at Université de Franche-Comté (BUT Informatique)
 - 🌱 I’m currently learning to code
-- 📫 You can reach me :
 
 ## 📫 You can reach me
 
